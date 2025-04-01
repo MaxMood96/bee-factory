@@ -41,7 +41,7 @@
   "dependencies": {
     "@ethersphere/bee-js": "^5.0.0",
     "chalk": "^4.1.2",
-    "dockerode": "^3.3.4",
+    "dockerode": "^4.0.5",
     "furious-commander": "^1.7.1",
     "node-fetch": "3.0.0-beta.9",
     "ora": "^5.3.0",
